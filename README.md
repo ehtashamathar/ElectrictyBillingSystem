@@ -33,11 +33,11 @@
 
 ## 🧐 About <a name = "about"></a>
 Electricity Billing System is a software-based application developed in Java programming language. 
-The main objective is to GET the details of Electricity Bill.
+The main objective is to Get the details of Electricity Bill.
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-In Book shop project an admin can Add, Delete, Edit, Search a record.
+Quick Bill generation according to power consumed and charges.
 
 
 
