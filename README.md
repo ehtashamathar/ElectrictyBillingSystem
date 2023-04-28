@@ -47,7 +47,7 @@ Quick Bill generation according to power consumed and charges.
 
 ## Screenshots<a name = "screenshots"></a>
 
-<img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/1.jpg">
+<img src ="Pictures/1.jpg">
 <img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/2.jpg">
 <img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/3.jpg">
 <img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/4.jpg">
