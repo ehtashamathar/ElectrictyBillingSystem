@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://app.logo.com/view/logo_d3f0ccd5-f168-433c-9adf-00920408ea53" alt="Project logo"></a>
+ <img width=200px height=200px src="Pictures/Logo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Book Shop</h3>
+<h3 align="center">Electricty Billing System</h3>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> Admin can Add, Delete, Edit, Search a record. It consists of Book Name, Edition, BookID, Book price.
+<p align="center"> We can Generate Electricity Bill According To Power Consumed and Charges
     <br> 
 </p>
 
@@ -32,7 +32,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Book shop project is designed for Book shop owners. So that they can manage records electronically.
+Electricity Billing System is a software-based application developed in Java programming language. 
+The main objective is to GET the details of Electricity Bill.
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 In Book shop project an admin can Add, Delete, Edit, Search a record.
